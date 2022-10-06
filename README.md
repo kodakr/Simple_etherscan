@@ -1,8 +1,8 @@
 
 ======THIS IS WORK STILL UNDER CONSTRUCTION============BEAR WITH US========
 
-# Simple_etherscanK
-# FG
+# Simple_etherscan
+
 This Single Page App aims to simplify the use of etherscan by non-devs.
 
 Yeah my granny can comfortably make enquiry bypassing etherscan complexity. 
