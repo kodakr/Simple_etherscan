@@ -14,7 +14,9 @@ This app simply utilises ethers.js to read info from the blockchain and incopora
 ========== HOW TO USE =================
 
 Component1      input ETH address,                     output => ETH balance.
-Component2      input ERC20 Contract address           output => Token's Total Supply
+
+Component2      input ERC20 Contract address           output => Token's Total Supply.
+
 Component3      input / click button                   output => Latest Ethereum Block.
 
 
